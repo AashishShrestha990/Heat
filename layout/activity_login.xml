@@ -21,7 +21,7 @@
             android:fontFamily="serif-monospace"
             android:textStyle="bold"
             android:textColor="@color/black"
-            android:textSize="30dp"
+            android:textSize="29dp"
             android:layout_gravity="center"/>
 
 
